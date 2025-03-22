@@ -1,0 +1,726 @@
+{
+    "bachelors": [
+        {
+            "specialty": "Акушерка",
+            "faculty": "ФОЗЗГ",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/bak-obuch-bg/spec-bak-obuch-bg?view=article&id=743&catid=9",
+            "professional_direction": "Здравни грижи"
+        },
+        {
+            "specialty": "Биотехнологии",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/bak-obuch-bg/spec-bak-obuch-bg?view=article&id=777&catid=9",
+            "professional_direction": "Биотехнологии"
+        },
+        {
+            "specialty": "Българска филология",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/bak-obuch-bg/spec-bak-obuch-bg?view=article&id=756&catid=9",
+            "professional_direction": "Филология"
+        },
+        {
+            "specialty": "Български език и история",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/bak-obuch-bg/spec-bak-obuch-bg?view=article&id=755&catid=9",
+            "professional_direction": "Педагогика на обучението по ..."
+        },
+        {
+            "specialty": "Екология и екологичен мениджмънт",
+            "faculty": "ФПН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/bak-obuch-bg/spec-bak-obuch-bg?view=article&id=719&catid=9",
+            "professional_direction": "Химически науки"
+        },
+        {
+            "specialty": "Екология и опазване на околната среда",
+            "faculty": "ФПН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/bak-obuch-bg/spec-bak-obuch-bg?view=article&id=720&catid=9",
+            "professional_direction": "Химически науки"
+        },
+        {
+            "specialty": "Електроника",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/bak-obuch-bg/spec-bak-obuch-bg?view=article&id=415&catid=9",
+            "professional_direction": "Електротехника, електроника и автоматика"
+        },
+        {
+            "specialty": "Здравен мениджмънт",
+            "faculty": "ФОЗЗГ",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/bak-obuch-bg/spec-bak-obuch-bg?view=article&id=740&catid=9",
+            "professional_direction": "Обществено здраве"
+        },
+        {
+            "specialty": "Индустриален мениджмънт",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/bak-obuch-bg/spec-bak-obuch-bg?view=article&id=716&catid=9",
+            "professional_direction": "Общо инженерство"
+        },
+        {
+            "specialty": "Инженерни материали",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/bak-obuch-bg/spec-bak-obuch-bg?view=article&id=420&catid=9",
+            "professional_direction": "Материали и материалознание"
+        },
+        {
+            "specialty": "История и психология",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/bak-obuch-bg/spec-bak-obuch-bg?view=article&id=758&catid=9",
+            "professional_direction": "Педагогика на обучението по ..."
+        },
+        {
+            "specialty": "История и философия",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/bak-obuch-bg/spec-bak-obuch-bg?view=article&id=759&catid=9",
+            "professional_direction": "Педагогика на обучението по ..."
+        },
+        {
+            "specialty": "Компютърни системи и технологии",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/bak-obuch-bg/spec-bak-obuch-bg?view=article&id=417&catid=9",
+            "professional_direction": "Комуникационна и компютърна техника"
+        },
+        {
+            "specialty": "Лекарски асистент",
+            "faculty": "ФОЗЗГ",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/bak-obuch-bg/spec-bak-obuch-bg?view=article&id=745&catid=9",
+            "professional_direction": "Здравни грижи"
+        },
+        {
+            "specialty": "Маркетинг",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/bak-obuch-bg/spec-bak-obuch-bg?view=article&id=717&catid=9",
+            "professional_direction": "Икономика"
+        },
+        {
+            "specialty": "Медицинска електроника",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/bak-obuch-bg/spec-bak-obuch-bg?view=article&id=416&catid=9",
+            "professional_direction": "Електротехника, електроника и автоматика"
+        },
+        {
+            "specialty": "Медицинска сестра",
+            "faculty": "ФОЗЗГ",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/bak-obuch-bg/spec-bak-obuch-bg?view=article&id=742&catid=9",
+            "professional_direction": "Здравни грижи"
+        },
+        {
+            "specialty": "Начална училищна педагогика и чужд език",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/bak-obuch-bg/spec-bak-obuch-bg?view=article&id=718&catid=9",
+            "professional_direction": "Педагогика"
+        },
+        {
+            "specialty": "Педагогика на обучението по български език и литература и английски език",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/bak-obuch-bg/spec-bak-obuch-bg?view=article&id=2391&catid=9",
+            "professional_direction": "Педагогика на обучението по ..."
+        },
+        {
+            "specialty": "Педагогика нa обучението по музика и хореография",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/bak-obuch-bg/spec-bak-obuch-bg?view=article&id=2389&catid=9",
+            "professional_direction": "Педагогика на обучението по ..."
+        },
+        {
+            "specialty": "Педагогика на обучението по Човекът и природата и Биология и здравно образование",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/za-nas-m-bg/struktura-m-bg/osnovni-zvena-m-bg/fon-m-bg/fon-spec-m-bg?view=article&id=2390&catid=9",
+            "professional_direction": "Педагогика на обучението по ..."
+        },
+        {
+            "specialty": "Предучилищна и начална училищна педагогика",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/bak-obuch-bg/spec-bak-obuch-bg?view=article&id=637&catid=9",
+            "professional_direction": "Педагогика"
+        },
+        {
+            "specialty": "Предучилищна педагогика и чужд език",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/bak-obuch-bg/spec-bak-obuch-bg?view=article&id=744&catid=9",
+            "professional_direction": "Педагогика"
+        },
+        {
+            "specialty": "Софтуерно инженерство",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/bak-obuch-bg/spec-bak-obuch-bg?view=article&id=418&catid=9",
+            "professional_direction": "Комуникационна и компютърна техника"
+        },
+        {
+            "specialty": "Социална педагогика",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/bak-obuch-bg/spec-bak-obuch-bg?view=article&id=754&catid=9",
+            "professional_direction": "Педагогика"
+        },
+        {
+            "specialty": "Стопанско управление",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/bak-obuch-bg/spec-bak-obuch-bg?view=article&id=715&catid=9",
+            "professional_direction": "Администрация и управление"
+        },
+        {
+            "specialty": "Техника и технологии в транспорта",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/bak-obuch-bg/spec-bak-obuch-bg?view=article&id=419&catid=9",
+            "professional_direction": "Транспорт, корабоплаване и авиация"
+        },
+        {
+            "specialty": "Технология на водата",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/bak-obuch-bg/spec-bak-obuch-bg?view=article&id=773&catid=9",
+            "professional_direction": "Химични технологии"
+        },
+        {
+            "specialty": "Технология на материалите и мениджмънт",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/bak-obuch-bg/spec-bak-obuch-bg?view=article&id=421&catid=9",
+            "professional_direction": "Материали и материалознание"
+        },
+        {
+            "specialty": "Технология на нефта и газа",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/bak-obuch-bg/spec-bak-obuch-bg?view=article&id=770&catid=9",
+            "professional_direction": "Химични технологии"
+        },
+        {
+            "specialty": "Технология на стъклото, керамиката и строителни свързващи материали",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/bak-obuch-bg/spec-bak-obuch-bg?view=article&id=774&catid=9",
+            "professional_direction": "Химични технологии"
+        },
+        {
+            "specialty": "Туризъм",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/bak-obuch-bg/spec-bak-obuch-bg?view=article&id=760&catid=9",
+            "professional_direction": "Туризъм"
+        },
+        {
+            "specialty": "Химични технологии",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/bak-obuch-bg/spec-bak-obuch-bg?view=article&id=768&catid=9",
+            "professional_direction": "Химични технологии"
+        },
+        {
+            "specialty": "Химични технологии и психология на кризисните ситуации",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/bak-obuch-bg/spec-bak-obuch-bg?view=article&id=771&catid=9",
+            "professional_direction": "Химични технологии"
+        },
+        {
+            "specialty": "Химично инженерство",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/bak-obuch-bg/spec-bak-obuch-bg?view=article&id=775&catid=9",
+            "professional_direction": "Химични технологии"
+        },
+        {
+            "specialty": "Химия",
+            "faculty": "ФПН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/bak-obuch-bg/spec-bak-obuch-bg?view=article&id=722&catid=9",
+            "professional_direction": "Химически науки"
+        },
+        {
+            "specialty": "Хранителни биотехнологии",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/bak-obuch-bg/spec-bak-obuch-bg?view=article&id=776&catid=9",
+            "professional_direction": "Биотехнологии"
+        }
+    ],
+    "masters": [
+        {
+            "specialty": "Анализ и контрол на храните - тесен профил",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=795&catid=9",
+            "professional_direction": "Биотехнологии"
+        },
+        {
+            "specialty": "Анализ и контрол на храните - широк профил",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=797&catid=9",
+            "professional_direction": "Биотехнологии"
+        },
+        {
+            "specialty": "Балнео, Спа и Уелнес мениджмънт - тесен профил",
+            "faculty": "ФОЗЗГ",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=747&catid=9",
+            "professional_direction": "Обществено здраве"
+        },
+        {
+            "specialty": "Балнео, Спа и Уелнес мениджмънт - широк профил",
+            "faculty": "ФОЗЗГ",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=748&catid=9",
+            "professional_direction": "Обществено здраве"
+        },
+        {
+            "specialty": "БЕИ - Иновации в обучението по история в средното училище - тесен профил (Освободена от такси)",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=813&catid=9",
+            "professional_direction": "Педагогика на обучението по ..."
+        },
+        {
+            "specialty": "БЕИ - Иновации в обучението по история в средното училище - широк профил (Освободена от такси)",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=814&catid=9",
+            "professional_direction": "Педагогика на обучението по ..."
+        },
+        {
+            "specialty": "БФ - Езикът и литературата - културологични проекции",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=817&catid=9",
+            "professional_direction": "Филология"
+        },
+        {
+            "specialty": "Екология и екологичен мениджмънт - тесен профил",
+            "faculty": "ФПН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=737&catid=9",
+            "professional_direction": "Химически науки"
+        },
+        {
+            "specialty": "Екология и екологичен мениджмънт - широк профил",
+            "faculty": "ФПН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=738&catid=9",
+            "professional_direction": "Химически науки"
+        },
+        {
+            "specialty": "Екология и опазване на околната среда - тесен профил (Освободена от такси)",
+            "faculty": "ФПН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=727&catid=9",
+            "professional_direction": "Химически науки"
+        },
+        {
+            "specialty": "Екология и опазване на околната среда - широк профил (Освободена от такси)",
+            "faculty": "ФПН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=736&catid=9",
+            "professional_direction": "Химически науки"
+        },
+        {
+            "specialty": "Електроника - тесен профил",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=422&catid=9",
+            "professional_direction": "Електротехника, електроника и автоматика"
+        },
+        {
+            "specialty": "Електроника - широк профил",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=423&catid=9",
+            "professional_direction": "Електротехника, електроника и автоматика"
+        },
+        {
+            "specialty": "Електротехника - широк профил",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=424&catid=9",
+            "professional_direction": "Електротехника, електроника и автоматика"
+        },
+        {
+            "specialty": "Здравен мениджмънт - тесен профил",
+            "faculty": "ФОЗЗГ",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=741&catid=9",
+            "professional_direction": "Обществено здраве"
+        },
+        {
+            "specialty": "Здравен мениджмънт - широк профил",
+            "faculty": "ФОЗЗГ",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=746&catid=9",
+            "professional_direction": "Обществено здраве"
+        },
+        {
+            "specialty": "Здравен туризъм - тесен профил",
+            "faculty": "ФОЗЗГ",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=1491&catid=9",
+            "professional_direction": "Обществено здраве"
+        },
+        {
+            "specialty": "Здравен туризъм - широк профил",
+            "faculty": "ФОЗЗГ",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=1492&catid=9",
+            "professional_direction": "Обществено здраве"
+        },
+        {
+            "specialty": "Изкуствен интелект и виртуална реалност",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=780&catid=9",
+            "professional_direction": "Комуникационна и компютърна техника"
+        },
+        {
+            "specialty": "ИМ - Технологии и мениджмънт на петролната и газовата инфраструктура - широк профил",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=837&catid=9",
+            "professional_direction": "Общо инженерство"
+        },
+        {
+            "specialty": "ИМ - Управление на операциите, процедурите и митническото обслужване при търговия с акцизни стоки",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=834&catid=9",
+            "professional_direction": "Общо инженерство"
+        },
+        {
+            "specialty": "ИМ - Управление на органични индустриални производства - тесен профил",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=835&catid=9",
+            "professional_direction": "Общо инженерство"
+        },
+        {
+            "specialty": "",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=835&catid=9",
+            "professional_direction": "Общо инженерство"
+        },
+        {
+            "specialty": "Иновации и мултидисциплинарност в задължителната подготовка по математика, компютърно моделиране и информационни технологии",
+            "faculty": "ФПН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=739&catid=9",
+            "professional_direction": "Педагогика на обучението по..."
+        },
+        {
+            "specialty": "Информатика и ИТ в химията и химичното образование - тесен профил (Освободена от такси)",
+            "faculty": "ФПН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=723&catid=9",
+            "professional_direction": "Химически науки"
+        },
+        {
+            "specialty": "Информатика и ИТ в химията и химичното образование - широк профил (Освободена от такси)",
+            "faculty": "ФПН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=724&catid=9",
+            "professional_direction": "Химически науки"
+        },
+        {
+            "specialty": "История и философия - Иновативни подходи в обучението по философия в средното училище - тесен профил",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=815&catid=9",
+            "professional_direction": "Педагогика на обучението по..."
+        },
+        {
+            "specialty": "История и философия - Иновативни подходи в обучението по философия в средното училище - широк профил",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=816&catid=9",
+            "professional_direction": "Педагогика на обучението по..."
+        },
+        {
+            "specialty": "Киберсигурност: технологии във финансовата сфера - 4 семестъра",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=2027&catid=9",
+            "professional_direction": "Комуникационна и компютърна техника"
+        },
+        {
+            "specialty": "Киберсигурност: технологии във финансовата сфера 3 семестъра",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=2026&catid=9",
+            "professional_direction": "Комуникационна и компютърна техника"
+        },
+        {
+            "specialty": "Кинезитерапия - тесен профил",
+            "faculty": "ФОЗЗГ",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=1256&catid=9",
+            "professional_direction": "Обществено здраве"
+        },
+        {
+            "specialty": "Компютърни системи и технологии – широк профил",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=778&catid=9",
+            "professional_direction": "Комуникационна и компютърна техника"
+        },
+        {
+            "specialty": "Маркетинг - Маркетинг мениджмънт - тесен профил",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=826&catid=9",
+            "professional_direction": "Икономика"
+        },
+        {
+            "specialty": "Маркетинг - Маркетинг мениджмънт - широк профил",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=827&catid=9",
+            "professional_direction": "Икономика"
+        },
+        {
+            "specialty": "Медицинска химия - тесен профил (Освободена от такси)",
+            "faculty": "ФПН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=725&catid=9",
+            "professional_direction": "Химически науки"
+        },
+        {
+            "specialty": "Медицински представител - 3 семестъра",
+            "faculty": "ФОЗЗГ",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=961&catid=9",
+            "professional_direction": "Обществено здраве"
+        },
+        {
+            "specialty": "Медицински представител - 4 семестъра",
+            "faculty": "ФОЗЗГ",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=960&catid=9",
+            "professional_direction": "Обществено здраве"
+        },
+        {
+            "specialty": "Органични химични технологии - 3 семестъра (Освободена от такси)",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=789&catid=9",
+            "professional_direction": "Химични технологии"
+        },
+        {
+            "specialty": "Органични химични технологии - 4 семестъра (Освободена от такси)",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=959&catid=9",
+            "professional_direction": "Химични технологии"
+        },
+        {
+            "specialty": "Педагогика на обучението по икономика и туризъм",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=2392&catid=9",
+            "professional_direction": "Педагогика на обучението по..."
+        },
+        {
+            "specialty": "ПНУП - Алтернативни педагогически технологии в ДГ и НУ",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=812&catid=9",
+            "professional_direction": "Педагогика"
+        },
+        {
+            "specialty": "ПНУП - Дигитални технологии и иновации в обучението в детската градина и началното училище",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/za-nas-m-bg/struktura-m-bg/osnovni-zvena-m-bg/fon-m-bg/fon-spec-m-bg?view=article&id=2025&catid=9",
+            "professional_direction": "Педагогика"
+        },
+        {
+            "specialty": "ПНУП - Интегрирано обучение на деца със СОП маг",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=806&catid=9",
+            "professional_direction": "Педагогика"
+        },
+        {
+            "specialty": "ПНУП - Информационни технологии в обучението 1-4 клас",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=807&catid=9",
+            "professional_direction": "Педагогика"
+        },
+        {
+            "specialty": "ПНУП - Съвременни аспекти на образованието в ДГ и НУ",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=808&catid=9",
+            "professional_direction": "Педагогика"
+        },
+        {
+            "specialty": "ПНУП след ОКС \"Проф. бакалавър\" от ПН1.2 Педагогика",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=809&catid=9",
+            "professional_direction": "Педагогика"
+        },
+        {
+            "specialty": "Предучилищна и начална училищна педагогика",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=805&catid=9",
+            "professional_direction": "Педагогика"
+        },
+        {
+            "specialty": "Софтуерни технологии",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=801&catid=9",
+            "professional_direction": "Комуникационна и компютърна техника"
+        },
+        {
+            "specialty": "Софтуерно инженерство - Софтуерни технологии",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=779&catid=9",
+            "professional_direction": "Комуникационна и компютърна техника"
+        },
+        {
+            "specialty": "Социална педагогика - Интегрирано обучение на деца със СОП",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=811&catid=9",
+            "professional_direction": "Педагогика"
+        },
+        {
+            "specialty": "Социална педагогика - Социално-педагогическо консултиране",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=810&catid=9",
+            "professional_direction": "Педагогика"
+        },
+        {
+            "specialty": "СУ - Администрация и управление в публичния сектор - 2 семестъра",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=824&catid=9",
+            "professional_direction": "Администрация и управление"
+        },
+        {
+            "specialty": "СУ - Администрация и управление в публичния сектор - широк профил",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=825&catid=9",
+            "professional_direction": "Администрация и управление"
+        },
+        {
+            "specialty": "СУ - Управление и развитие на човешките ресурси - тесен профил",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=818&catid=9",
+            "professional_direction": "Администрация и управление"
+        },
+        {
+            "specialty": "СУ - Управление и развитие на човешките ресурси - широк профил",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=819&catid=9",
+            "professional_direction": "Администрация и управление"
+        },
+        {
+            "specialty": "СУ - Управление на международния бизнес - тесен профил",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=822&catid=9",
+            "professional_direction": "Администрация и управление"
+        },
+        {
+            "specialty": "СУ - Управление на международния бизнес - широк профил",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=821&catid=9",
+            "professional_direction": "Администрация и управление"
+        },
+        {
+            "specialty": "СУ - Финансов мениджмънт на предприятието - тесен профил",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=820&catid=9",
+            "professional_direction": "Администрация и управление"
+        },
+        {
+            "specialty": "СУ - Финансов мениджмънт на предприятието - широк профил",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=823&catid=9",
+            "professional_direction": "Администрация и управление"
+        },
+        {
+            "specialty": "Техника и технологии в транспорта - 2 семестъра",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=1467&catid=9",
+            "professional_direction": "Транспорт, корабоплаване и авиация"
+        },
+        {
+            "specialty": "Техника и технологии в транспорта - 4 семестъра",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=1468&catid=9",
+            "professional_direction": "Транспорт, корабоплаване и авиация"
+        },
+        {
+            "specialty": "Технология на водата - тесен профил (Освободена от такси)",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=790&catid=9",
+            "professional_direction": "Химични технологии"
+        },
+        {
+            "specialty": "Технология на водата - широк профил (Освободена от такси)",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=791&catid=9",
+            "professional_direction": "Химични технологии"
+        },
+        {
+            "specialty": "Технология на материалите и материалознание - тесен профил (Освободена от такси)",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=781&catid=9",
+            "professional_direction": "Материали и материалознание"
+        },
+        {
+            "specialty": "Технология на материалите и материалознание - широк профил (Освободена от такси)",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=783&catid=9",
+            "professional_direction": "Материали и материалознание"
+        },
+        {
+            "specialty": "Технология на неорганичните вещества - тесен профил",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=792&catid=9",
+            "professional_direction": "Химични технологии"
+        },
+        {
+            "specialty": "Технология на неорганичните вещества - широк профил",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=793&catid=9",
+            "professional_direction": "Химични технологии"
+        },
+        {
+            "specialty": "Технология на нефта и газа - 2 семестъра (Освободена от такси)",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=786&catid=9",
+            "professional_direction": "Химични технологии"
+        },
+        {
+            "specialty": "Технология на нефта и газа - 3 семестъра (Освободена от такси)",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=787&catid=9",
+            "professional_direction": "Химични технологии"
+        },
+        {
+            "specialty": "Технология на нефта и газа - 4 семестъра (Освободена от такси)",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=788&catid=9",
+            "professional_direction": "Химични технологии"
+        },
+        {
+            "specialty": "Технология на силикатите - тесен профил (Освободена от такси)",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=794&catid=9",
+            "professional_direction": "Химични технологии"
+        },
+        {
+            "specialty": "Технология на силикатите - широк профил (Освободена от такси)",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=796&catid=9",
+            "professional_direction": "Химични технологии"
+        },
+        {
+            "specialty": "Туризъм - Международен туризъм",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=833&catid=9",
+            "professional_direction": "Туризъм"
+        },
+        {
+            "specialty": "Туризъм - Мениджмънт на туристическа дестинация",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=830&catid=9",
+            "professional_direction": "Туризъм"
+        },
+        {
+            "specialty": "Туризъм - Управление на туризма - след ОКС Бакалавър",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=832&catid=9",
+            "professional_direction": "Туризъм"
+        },
+        {
+            "specialty": "Туризъм - Управление на туризма - след ОКС Проф. бакалавър",
+            "faculty": "ФОН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=831&catid=9",
+            "professional_direction": "Туризъм"
+        },
+        {
+            "specialty": "Химични технологии и психология на кризисните ситуации - тесен профил (Освободена от такси)",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=1373&catid=9",
+            "professional_direction": "Химични технологии"
+        },
+        {
+            "specialty": "Химични технологии и психология на кризисните ситуации - широк профил (Освободена от такси)",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=1374&catid=9",
+            "professional_direction": "Химични технологии"
+        },
+        {
+            "specialty": "Химично инженерство - тесен профил (Освободена от такси)",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=784&catid=9",
+            "professional_direction": "Химични технологии"
+        },
+        {
+            "specialty": "Химично инженерство - широк профил (Освободена от такси)",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=785&catid=9",
+            "professional_direction": "Химични технологии"
+        },
+        {
+            "specialty": "Химия на бъдещето",
+            "faculty": "ФПН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=728&catid=9",
+            "professional_direction": "Химически науки"
+        },
+        {
+            "specialty": "Храни, хранене, диететика - тесен профил",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=798&catid=9",
+            "professional_direction": "Биотехнологии"
+        },
+        {
+            "specialty": "Храни, хранене, диететика - широк профил",
+            "faculty": "ФТН",
+            "detail_url": "https://uniburgas.bg/index.php/bg/obucenie-m-bg/studenti-m-bg/mag-obuch-bg/spec-mag-obuch-bg?view=article&id=799&catid=9",
+            "professional_direction": "Биотехнологии"
+        }
+    ]
+}

@@ -1,0 +1,226 @@
+{
+    "bachelors": [
+        {
+            "faculty": "Faculty of Legal Studies",
+            "specialty": "Law",
+            "detail_url": "https://www.bfu.bg/en/en/banchelor-programmes/faculty-of-legal-studies/law"
+        },
+        {
+            "faculty": "Faculty of Business Studies",
+            "specialty": "Accounting and Finance",
+            "detail_url": "https://www.bfu.bg/en/banchelor-programmes/faculty-of-business-studies/accounting-and-finance"
+        },
+        {
+            "faculty": "Faculty of Business Studies",
+            "specialty": "Marketing and Digital Communications",
+            "detail_url": "https://www.bfu.bg/en/banchelor-programmes/faculty-of-business-studies/marketing-and-digital-communications"
+        },
+        {
+            "faculty": "Faculty of Business Studies",
+            "specialty": "Business Management and International Economics",
+            "detail_url": "https://www.bfu.bg/en/banchelor-programmes/faculty-of-business-studies/business-management-and-international-economics"
+        },
+        {
+            "faculty": "Faculty of Computer Science and Engineering",
+            "specialty": "Software Engineering",
+            "detail_url": "https://www.bfu.bg/en/en/banchelor-programmes/faculty-of-computer-science-and-engineering/software-engineering"
+        },
+        {
+            "faculty": "Faculty of Computer Science and Engineering",
+            "specialty": "Computer Systems and Technologies",
+            "detail_url": "https://www.bfu.bg/en/en/banchelor-programmes/faculty-of-computer-science-and-engineering/communication-technics-and-computer-networks"
+        },
+        {
+            "faculty": "Faculty of Computer Science and Engineering",
+            "specialty": "System engineering in industry and tourism",
+            "detail_url": "https://www.bfu.bg/en/en/banchelor-programmes/faculty-of-computer-science-and-engineering/spetsialnost-komunikatsionna-tehnika-i-kompyutarni-mrezhi"
+        },
+        {
+            "faculty": "Faculty of Computer Science and Engineering",
+            "specialty": "Electric Energy Distribution and Electrical Equipment",
+            "detail_url": "https://www.bfu.bg/en/en/banchelor-programmes/faculty-of-computer-science-and-engineering/electric-energy-distribution-and-electrical-equipment"
+        },
+        {
+            "faculty": "Faculty of Humanities",
+            "specialty": "Psychology",
+            "detail_url": "https://www.bfu.bg/en/en/banchelor-programmes/faculty-of-humanities/psychology"
+        },
+        {
+            "faculty": "Faculty of Humanities",
+            "specialty": "Pre-school and Primary School Pedagogy",
+            "detail_url": "https://www.bfu.bg/en/banchelor-programmes/faculty-of-humanities/pedagog-detski-uchitel-nachalen-uchitel"
+        }
+    ],
+    "masters": [
+        {
+            "faculty": "Faculty of Legal Studies",
+            "specialty": "Law",
+            "detail_url": "https://www.bfu.bg/en/banchelor-programmes/faculty-of-legal-studies/law"
+        },
+        {
+            "faculty": "Faculty of Legal Studies",
+            "specialty": "Administration and Management of the National Security System",
+            "detail_url": "https://www.bfu.bg/en/en/master-programmes/faculty-of-legal-studies/masters-degree-in-administration-and-management-of-the-national-security-system"
+        },
+        {
+            "faculty": "Faculty of Legal Studies",
+            "specialty": "State and Local Administration",
+            "detail_url": "https://www.bfu.bg/en/en/master-programmes/faculty-of-legal-studies/master-programme-in-state-and-local-administration"
+        },
+        {
+            "faculty": "Faculty of Legal Studies",
+            "specialty": "Maritime Law and Governance of Coastal Territories",
+            "detail_url": "https://www.bfu.bg/en/master-programmes/faculty-of-legal-studies/masters-program-in-maritime-law-and-coastal-territories"
+        },
+        {
+            "faculty": "Faculty of Business Studies",
+            "specialty": "Finance",
+            "detail_url": "https://www.bfu.bg/en/en/master-programmes/faculty-of-business-studies/masters-degree-in-finance"
+        },
+        {
+            "faculty": "Faculty of Business Studies",
+            "specialty": "Accounting",
+            "detail_url": "https://www.bfu.bg/en/en/master-programmes/faculty-of-business-studies/masters-degree-in-accounting"
+        },
+        {
+            "faculty": "Faculty of Business Studies",
+            "specialty": "Marketing",
+            "detail_url": "https://www.bfu.bg/en/en/master-programmes/faculty-of-business-studies/masters-degree-in-marketing"
+        },
+        {
+            "faculty": "Faculty of Business Studies",
+            "specialty": "Marketing and Management of Tourism Business",
+            "detail_url": "https://www.bfu.bg/en/en/master-programmes/faculty-of-business-studies/masters-degree-in-marketing-and-management-of-tourism-business"
+        },
+        {
+            "faculty": "Faculty of Business Studies",
+            "specialty": "Business Administration (Management)",
+            "detail_url": "https://www.bfu.bg/en/en/master-programmes/faculty-of-business-studies/masters-degree-in-business-administration-management"
+        },
+        {
+            "faculty": "Faculty of Business Studies",
+            "specialty": "Forensic Economic Expertise",
+            "detail_url": "https://www.bfu.bg/en/en/magistarski-programi/tsentar-po-ikonomicheski-i-upravlenski-nauki/masters-degree-in-forensic-economic-expertise"
+        },
+        {
+            "faculty": "Faculty of Business Studies",
+            "specialty": "International Economic Relations (distance learning)",
+            "detail_url": "https://www.bfu.bg/en/en/master-programmes/faculty-of-business-studies/masters-degree-in-international-economic-relations-distance-education"
+        },
+        {
+            "faculty": "Faculty of Business Studies",
+            "specialty": "Human Resource Management and Organisational Psychology",
+            "detail_url": "https://www.bfu.bg/en/magistarski-programi/tsentar-po-ikonomicheski-i-upravlenski-nauki/magistarska-programa-upravlenie-na-choveshkite-resursi-i-organizatsionna-psihologiya"
+        },
+        {
+            "faculty": "Faculty of Business Studies",
+            "specialty": "Health Management",
+            "detail_url": "https://www.bfu.bg/en/master-programmes/faculty-of-business-studies/magistarska-programa-zdraven-menidzhmant"
+        },
+        {
+            "faculty": "Faculty of Business Studies",
+            "specialty": "Real Estate Business",
+            "detail_url": "https://www.bfu.bg/en/master-programmes/faculty-of-business-studies/masters-degree-in-real-estate-business"
+        },
+        {
+            "faculty": "Faculty of Business Studies",
+            "specialty": "Regional Management",
+            "detail_url": "https://www.bfu.bg/en/master-programmes/faculty-of-business-studies/masters-degree-in-regional-management"
+        },
+        {
+            "faculty": "Faculty of Business Studies",
+            "specialty": "International Business and Management (in English)",
+            "detail_url": "https://www.bfu.bg/en/master-programmes/faculty-of-business-studies/masters-degree-in-international-business-and-management-in-english"
+        },
+        {
+            "faculty": "Faculty of Business Studies",
+            "specialty": "Circular Economy",
+            "detail_url": "https://www.bfu.bg/en/master-programmes/faculty-of-business-studies/masters-program-in-circular-economy"
+        },
+        {
+            "faculty": "Faculty of Business Studies",
+            "specialty": "Leadership and Entrepreneurial Skills",
+            "detail_url": "https://www.bfu.bg/en/master-programmes/faculty-of-business-studies/masters-degree-in-leadership-and-entrepreneural-skills"
+        },
+        {
+            "faculty": "Faculty of Computer Science and Engineering",
+            "specialty": "Applied programming",
+            "detail_url": "https://www.bfu.bg/en/master-programmes/faculty-of-computer-science-and-engineering/masters-degree-in-applied-programming"
+        },
+        {
+            "faculty": "Faculty of Computer Science and Engineering",
+            "specialty": "Information Security",
+            "detail_url": "https://www.bfu.bg/en/en/master-programmes/faculty-of-computer-science-and-engineering/masters-degree-in-information-security"
+        },
+        {
+            "faculty": "Faculty of Computer Science and Engineering",
+            "specialty": "Artificial Intelligence",
+            "detail_url": "https://www.bfu.bg/en/master-programmes/faculty-of-computer-science-and-engineering/masters-degree-in-artificial-intelligence"
+        },
+        {
+            "faculty": "Faculty of Computer Science and Engineering",
+            "specialty": "Data analysis",
+            "detail_url": "https://www.bfu.bg/en/master-programmes/faculty-of-computer-science-and-engineering/masters-degree-in-data-analysis"
+        },
+        {
+            "faculty": "Faculty of Computer Science and Engineering",
+            "specialty": "Business Information Technologies (distance learning)",
+            "detail_url": "https://www.bfu.bg/en/en/master-programmes/faculty-of-computer-science-and-engineering/masters-degree-in-business-information-technologies-distance-education"
+        },
+        {
+            "faculty": "Faculty of Computer Science and Engineering",
+            "specialty": "Integrated Computer Systems and Clusters",
+            "detail_url": "https://www.bfu.bg/en/magistarski-programi/tsentar-po-informatika-i-tehnicheski-nauki/integrated-computer-systems-and-complexes"
+        },
+        {
+            "faculty": "Faculty of Computer Science and Engineering",
+            "specialty": "Engineering and Exploitation of Energy Systems",
+            "detail_url": "https://www.bfu.bg/en/master-programmes/faculty-of-computer-science-and-engineering/inzhenering-i-eksploatatsiya-na-energiyni-sistemi"
+        },
+        {
+            "faculty": "Faculty of Computer Science and Engineering",
+            "specialty": "Forensic Engineering, Technical Expertise and Safety Management",
+            "detail_url": "https://www.bfu.bg/en/en/master-programmes/faculty-of-computer-science-and-engineering/masters-degree-in-forensic-engineering-and-technical-expertise"
+        },
+        {
+            "faculty": "Faculty of Computer Science and Engineering",
+            "specialty": "Fire Safety and Fire Protection Equipment",
+            "detail_url": "https://www.bfu.bg/en/magistarski-programi/tsentar-po-informatika-i-tehnicheski-nauki/magistarska-programa-tehnicheska-bezopasnost-i-protivopozharna-tehnika"
+        },
+        {
+            "faculty": "Faculty of Computer Science and Engineering",
+            "specialty": "Design and Controlling of Air and Sea Drones",
+            "detail_url": "https://www.bfu.bg/en/magistarska-programa-proektirane-i-upravlenie-na-vazdushni-i-morski-dronove"
+        },
+        {
+            "faculty": "Faculty of Computer Science and Engineering",
+            "specialty": "Electronization and Communication for Renewable Energy Sources",
+            "detail_url": "https://www.bfu.bg/en/master-programmes/faculty-of-computer-science-and-engineering/masters-degree-in-communications-and-electronization-for-renewable-energy-sources"
+        },
+        {
+            "faculty": "Faculty of Humanities",
+            "specialty": "Psychological Counseling",
+            "detail_url": "https://www.bfu.bg/en/magistarski-programi/tsentar-po-humanitarni-nauki/psihologichno-konsultirane"
+        },
+        {
+            "faculty": "Faculty of Humanities",
+            "specialty": "Child and Adolescent Psychology",
+            "detail_url": "https://www.bfu.bg/en/master-programmes/faculty-of-humanities/masters-degree-in-child-and-adolescent-psychology"
+        },
+        {
+            "faculty": "Faculty of Humanities",
+            "specialty": "Pre-school and Primary School Pedagogy",
+            "detail_url": "https://www.bfu.bg/en/magistarska-programa-preduchilishtna-i-nachalna-uchilishtna-pedagogika"
+        },
+        {
+            "faculty": "Faculty of Humanities",
+            "specialty": "Primary School Pedagogy and Foreign Language",
+            "detail_url": "https://www.bfu.bg/en/magistarski-programi/tsentar-po-humanitarni-nauki/magistarska-programa-nachalna-uchilishtna-pedagogika-s-chuzhd-ezik-angliyski-ezik"
+        },
+        {
+            "faculty": "Faculty of Humanities",
+            "specialty": "Innovation and entrepreneurship in primary and preschool education",
+            "detail_url": "https://www.bfu.bg/en/master-programmes/faculty-of-humanities/magistarska-programa-inovatsii-i-predpriemachestvo-v-nachalnoto-i-preduchilishtnoto-obrazovanie"
+        }
+    ]
+}

@@ -1,0 +1,330 @@
+{
+    "bachelors": [
+        {
+            "programme": "Aerospace Engineering - English",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "Applied Mathematics",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "Applied Physics",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "Architecture, Urbanism and Building Sciences",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "Civil Engineering",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "Clinical Technology",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "Computer Science & Engineering -  English",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "Earth, Climate and Technology - English",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "Electrical Engineering",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "Industrial Design Engineering",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "Life Science and Technology",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "Marine Technology",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "Mechanical Engineering",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "Molecular Science and Technology",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "Nanobiology - English",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "Systems Engineering, Policy Analysis & Management",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        }
+    ],
+    "masters": [
+        {
+            "programme": "MSc Aerospace Engineering",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "MSc Applied Earth Sciences",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "MSc Applied Geophysics",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "MSc Applied Mathematics",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "MSc Applied Physics",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "MSc Architecture, Urbanism and Building Sciences",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "MSc BioMedical Engineering",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "MSc Chemical Engineering",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "MSc Civil Engineering",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "MSc Complex Systems Engineering and Management",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "MSc Computer & Embedded Systems Engineering",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "MSc Computer Science",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "MSc Construction Management and Engineering",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "MSc Data Science and Artificial Intelligence Technology",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "MSc Design for Interaction",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "MSc Earth, Climate and Technology",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "MSc Electrical Engineering",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "MSc Engineering and Policy Analysis",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "MSc Environmental Engineering",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "MSc Geographical Information Management and Applications",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "MSc Geomatics",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "MSc Industrial Ecology",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "MSc Integrated Product Design",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "MSc Life Science and Technology",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "MSc Management of Technology",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "MSc Marine Technology",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "MSc Materials Science & Engineering",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "MSc Mechanical Engineering",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "MSc Metropolitan Analysis, Design and Engineering",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "MSc Nanobiology",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "MSc Offshore & Dredging Engineering",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "MSc Quantum Information Science & Technology",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "MSc Robotics",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "MSc Science Education and Communication",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "MSc Strategic Product Design",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "MSc Sustainable Energy Technology",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "MSc Systems & Control",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        },
+        {
+            "programme": "MSc Technical Medicine",
+            "faculty": "Not specified",
+            "detail_url": null,
+            "professional_direction": "Not specified"
+        }
+    ]
+}
